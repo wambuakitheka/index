@@ -767,7 +767,7 @@ section {
     padding: 2rem 2.5rem !important;
   }
 .portfolio-item .hover-items:hover h3 a {
-  color:magenta;
+  color:rgb(224, 210, 15);
 }
   .about-stats .progress-bars {
     grid-template-columns: repeat(1, 1fr);
